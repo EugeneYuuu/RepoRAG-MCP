@@ -1,0 +1,8 @@
+.git/
+.idea/
+.DS_Store
+artifacts/
+.build_cache/
+__pycache__
+LanguageChunker/tree-sitter-languages/
+LanguageChunker/__pycache__x
