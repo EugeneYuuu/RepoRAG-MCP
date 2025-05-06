@@ -39,6 +39,7 @@ python local_repo_process.py --path /path/to/repo
 ```bash
 python codeVisualize.py --collection collection_name
 ```
+![img.png](img.png)
 
 4. MCP Server配置
 ```json
